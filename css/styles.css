@@ -1,0 +1,24 @@
+body {
+  background-color: #ffeadb;
+}
+
+hr {
+  color: grey;
+  border-style: none;
+  border-top-style: dotted;
+  border-width: 5px;
+  width: 20%;
+}
+
+h1 {
+  font-family: "Helvetica Neue";
+  font-size: 2.5em;
+  letter-spacing: -1px;
+  line-height: 110%;
+  transition: all 0.2s ease-in-out 0s;
+  color: #1e5f74;
+}
+
+h3 {
+  color: #1e5f74;
+}
